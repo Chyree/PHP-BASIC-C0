@@ -8,4 +8,4 @@ echo $score;
 ?>
 
 </body>
-</html> 
+</html>
